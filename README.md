@@ -23,7 +23,7 @@ cp shell_custom.sh /etc/profile.d/shell_custom.sh
 ```
 
 ```
-# For each user, add the execution in the and the file ~/.bashrc
+# For each user, add the execution in the End of file ~/.bashrc
 
 if [ -f  /etc/profile.d/shell_custom.sh ]; then
     . /etc/profile.d/shell_custom.sh
