@@ -1,4 +1,4 @@
-# Customize Your Terminal Shell
+# Customize Your Linux Terminal - Shell
 
 ![](./history.png)
 
