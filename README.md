@@ -9,14 +9,13 @@
 
 ```
 
-#Download the file customization
+#Download the and Extract the files
 
 wget https://github.com/KeystoneDevBr/shell_custom/archive/refs/heads/main.zip
 
-# Extract the files
 unzip main.zip
 
-# Copy the file shell_custom.sh for /etc/profile.d/ directory
+# Copy the file shell_custom.sh for  directory /etc/profile.d/
 
 cp shell_custom.sh /etc/profile.d/shell_custom.sh
 
